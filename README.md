@@ -9,10 +9,9 @@ O QUE APRENDI NESSE PROJETO:
 - Criar animações em UIButton.
 - Auto Layoute e responsividade.
 - Escopo das variáveis.
+https://www.linkedin.com/feed/update/urn:li:activity:6873690377417748480/
 
-
-Tenho um vídeo do app funcionando no meu LinkedIn:
-<a href="https://www.linkedin.com/feed/update/urn:li:activity:6873690377417748480/" target= "_blank">LinkedIn</a>
+<a href="https://www.linkedin.com/feed/update/urn:li:activity:6873690377417748480/" target= "_blank">Vídeo do app funcionando no LinkedIn</a>
 
 
 
