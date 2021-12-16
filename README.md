@@ -19,5 +19,5 @@ https://www.linkedin.com/feed/update/urn:li:activity:6873690377417748480/
 <div>
 <p>Print da tela do app:</p>
 <img src="https://user-images.githubusercontent.com/93380504/144930405-41830b53-b90a-4200-a56e-122f8cc6a9bb.png" width="300px" />
-<img src="https://user-images.githubusercontent.com/93380504/144930610-071cadb4-5a84-4114-ab93-dbbbdef5dab3.png" width="500px" height="300px" />
+<img src="https://user-images.githubusercontent.com/93380504/144930610-071cadb4-5a84-4114-ab93-dbbbdef5dab3.png" width="500px" />
 </div>
